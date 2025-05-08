@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## 🍲 Food Recipe Search UI
+
+![Food Recipe Search](https://raw.githubusercontent.com/hrishiauti2099/Project_Images/main/food%20recipe%20search.png)
+
